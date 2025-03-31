@@ -33,3 +33,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android/iOS build outputs
+android/
+ios/
+build/
+
+# Log files
+*.log
